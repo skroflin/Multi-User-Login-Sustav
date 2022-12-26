@@ -1,5 +1,13 @@
-<h1>Multi-User Login Sustav</h1>
+# Multi-User Login Sustav
 
-<p>Multi-User Login Sustav napravljen uz pomoć PHP-a i SQL (myphpadmin gdje sam implementirao SQL).</p>
-<p>Obnašava dvije funkcije, prijavljivanje putem admin sučelja i korisničkog sučelja (worker.)</p>
-<p>Stil i dizajn je omogućen putem Bootstrap-a, CSS framework.</p>
+Projekt je napravljen koji poziva `phpmyadmin` i poziva se na bazu koja je tamo napravljena.
+
+## Funkcionalnost
+
+Obnašava dvije funkcije, prijavljivanje putem admin sučelja i korisničkog sučelja (worker). Stil i dizajn je omogućen putem Bootstrap-a, CSS framework.
+
+## Pokretanje
+
+```
+pokrenuti apache i mysql server na localhost-u (e.g. ja sam koristio xampp lokalni server).
+```
